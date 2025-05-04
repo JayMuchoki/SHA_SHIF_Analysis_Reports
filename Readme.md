@@ -50,7 +50,7 @@ Using a structured dataset, I applied SQL techniques to extract insights, evalua
 
 ## 👨‍💻 My Contribution
 
-As part of my  I:
+For my project I:
 - Cleaned and analyzed the SHIF/SHA data 
 - Summarized patterns and performance metrics for different regions and providers
 - Built **interactive dashboards** in **Power BI**, **Excel**, and **Tableau** to visualize insights and KPIs
